@@ -1,0 +1,4 @@
+﻿  VS_cpp.cpp
+D:\projects\Olimp_Dinamic\VS_cpp\VS_cpp\VS_cpp.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\projects\Olimp_Dinamic\VS_cpp\VS_cpp\VS_cpp.cpp(60,15): warning C4101: 'i': unreferenced local variable
+  VS_cpp.vcxproj -> D:\projects\Olimp_Dinamic\VS_cpp\x64\Debug\VS_cpp.exe
